@@ -63,18 +63,6 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarsuthar&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
