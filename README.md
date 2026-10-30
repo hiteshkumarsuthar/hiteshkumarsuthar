@@ -1,26 +1,115 @@
-<h1 align="center">Hi 👋, I'm Hitesh Kumar Suthar</h1>
-<h3 align="center">B.Tech AI & Data Science Student | Aspiring Data Scientist | Learning by Building</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshkumarsuthar&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshkumarsuthar" /> </p>
+# Hi 👋, I'm Hitesh Kumar Suthar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarsuthar" alt="hiteshkumarsuthar" /></a> </p>
+### B.Tech AI & Data Science Student · Aspiring Data Scientist · Learning by Building
 
-- 💬 Ask me about **Python, Java, Data Science, GitHub, and Programming**
+I'm exploring **Data Science, programming, and software development** by learning new concepts and turning them into hands-on projects.
 
-- 📫 How to reach me **hiteshstr11@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=hiteshkumarsuthar&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/hiteshkumarsuthar)
+[![Followers](https://img.shields.io/github/followers/hiteshkumarsuthar?label=Followers&style=flat&logo=github)](https://github.com/hiteshkumarsuthar?tab=followers)
+[![Stars](https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=flat&logo=github&label=Stars)](https://github.com/hiteshkumarsuthar?tab=repositories)
 
-- ⚡ Fun fact **I believe in learning by building and turning ideas into reality.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshstr11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiteshkumarsuthar)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiteshkumarsuthar&show_icons=true&locale=en&layout=compact" alt="hiteshkumarsuthar" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&locale=en" alt="hiteshkumarsuthar" /></p>
+- 🔭 **Currently:** Learning new technologies and building projects for hands-on experience.
+- 🌱 **Learning:** Python, Java, Data Structures & Algorithms, and Data Science fundamentals.
+- 👯 **Open to:** Collaborating on beginner-friendly open-source and AI/Data Science projects.
+- 💬 **Ask me about:** Python, Java, Git, GitHub, and programming fundamentals.
+- 🎯 **Goal:** Grow into a skilled Data Scientist and solve real-world problems.
+- ⚡ **Fun fact:** I believe in learning by building and turning ideas into reality.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshkumarsuthar&" alt="hiteshkumarsuthar" /></p>
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
+
+## 📚 Currently Exploring
+
+**Data Science · Machine Learning Fundamentals · DSA · Real-World Projects**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarsuthar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=hiteshkumarsuthar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarsuthar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 📁 Repositories & Stars
+
+[![Public Repositories](https://img.shields.io/badge/Public%20Repos-View%20All-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiteshkumarsuthar?tab=repositories)
+
+[![Stars Received](https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Received)](https://github.com/hiteshkumarsuthar?tab=repositories)
+
+---
+
+## 🚀 Featured Projects
+
+I'm continuously learning and building projects to improve my practical skills.
+
+Explore my repositories:
+
+**[Browse My Projects →](https://github.com/hiteshkumarsuthar?tab=repositories)**
+
+<!-- Add your featured projects here:
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/hiteshkumarsuthar/YOUR_REPO_NAME)
+
+-->
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to learning together, sharing ideas, and collaborating on projects.
+
+📫 **Email:** [hiteshstr11@gmail.com](mailto:hiteshstr11@gmail.com)
+
+💼 **LinkedIn:** [Hitesh Kumar Suthar](https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/)
+
+💻 **GitHub:** [@hiteshkumarsuthar](https://github.com/hiteshkumarsuthar)
+
+<div align="center">
+
+---
+
+### Learn · Build · Improve · Repeat 🚀
+
+</div>
