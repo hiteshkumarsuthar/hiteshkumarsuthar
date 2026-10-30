@@ -1,18 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm Hitesh Kumar Suthar
+# Hey 👋, I'm Hitesh Kumar Suthar
 
-### B.Tech AI & Data Science Student · Aspiring Data Scientist · Learning by Building
+### B.Tech AI & Data Science Student | Aspiring Data Scientist | Learning by Building
 
-I'm exploring **Data Science, programming, and software development** by learning new concepts and turning them into hands-on projects.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=hiteshkumarsuthar&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/hiteshkumarsuthar)
-[![Followers](https://img.shields.io/github/followers/hiteshkumarsuthar?label=Followers&style=flat&logo=github)](https://github.com/hiteshkumarsuthar?tab=followers)
-[![Stars](https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=flat&logo=github&label=Stars)](https://github.com/hiteshkumarsuthar?tab=repositories)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshstr11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiteshkumarsuthar)
+<img src="https://komarev.com/ghpvc/?username=hiteshkumarsuthar&label=Profile%20Views&color=blueviolet&style=flat" />
+<img src="https://img.shields.io/github/followers/hiteshkumarsuthar?label=Followers&style=flat&color=blue" />
 
 </div>
 
@@ -20,31 +13,34 @@ I'm exploring **Data Science, programming, and software development** by learnin
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently:** Learning new technologies and building projects for hands-on experience.
-- 🌱 **Learning:** Python, Java, Data Structures & Algorithms, and Data Science fundamentals.
-- 👯 **Open to:** Collaborating on beginner-friendly open-source and AI/Data Science projects.
-- 💬 **Ask me about:** Python, Java, Git, GitHub, and programming fundamentals.
-- 🎯 **Goal:** Grow into a skilled Data Scientist and solve real-world problems.
-- ⚡ **Fun fact:** I believe in learning by building and turning ideas into reality.
+I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Science** from India. I enjoy exploring new technologies, strengthening my programming skills, and building projects to gain practical experience.
 
-## 🛠️ Languages & Tools
+- 🔭 Currently learning new technologies and building hands-on projects.
+- 🌱 Exploring **Python, Java, Data Science & Machine Learning**.
+- 👯 Looking to collaborate on **Open Source, AI & Data Science projects**.
+- 💬 Ask me about **Python, Java, Git, GitHub & Programming**.
+- 🎯 Goal: Become a skilled Data Scientist and solve real-world problems.
+- ⚡ Fun fact: I believe in learning by building and turning ideas into reality.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
+
+### Libraries & Frameworks
+
+<img src="https://skillicons.dev/icons?i=pandas,sklearn,tensorflow,nodejs,react" />
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle,git,github,vscode,docker" />
 
 </div>
-
-## 📚 Currently Exploring
-
-**Data Science · Machine Learning Fundamentals · DSA · Real-World Projects**
 
 ---
 
@@ -52,11 +48,26 @@ I'm exploring **Data Science, programming, and software development** by learnin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarsuthar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarsuthar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=hiteshkumarsuthar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hiteshkumarsuthar&theme=tokyonight&hide_border=true&border_radius=10" width="80%" />
 
 </div>
 
@@ -66,50 +77,92 @@ I'm exploring **Data Science, programming, and software development** by learnin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarsuthar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarsuthar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Hitesh's%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
 
-## 📁 Repositories & Stars
+## 📅 GitHub Contribution Calendar
 
-[![Public Repositories](https://img.shields.io/badge/Public%20Repos-View%20All-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiteshkumarsuthar?tab=repositories)
+<div align="center">
 
-[![Stars Received](https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Received)](https://github.com/hiteshkumarsuthar?tab=repositories)
+<img src="https://ghchart.rshah.org/70a5fd/hiteshkumarsuthar" width="100%" alt="GitHub Contribution Calendar" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarsuthar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
+
+</div>
+
+---
+
+## ⭐ Repository Statistics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhiteshkumarsuthar&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" />
+
+<img src="https://img.shields.io/github/followers/hiteshkumarsuthar?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-I'm continuously learning and building projects to improve my practical skills.
+<div align="center">
 
-Explore my repositories:
+<a href="https://github.com/hiteshkumarsuthar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
 
-**[Browse My Projects →](https://github.com/hiteshkumarsuthar?tab=repositories)**
+<a href="https://github.com/hiteshkumarsuthar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
 
-<!-- Add your featured projects here:
+<a href="https://github.com/hiteshkumarsuthar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+</a>
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/hiteshkumarsuthar/YOUR_REPO_NAME)
+</div>
 
--->
+> Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, and `YOUR_PROJECT_3` with your actual public repository names.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm open to learning together, sharing ideas, and collaborating on projects.
-
-📫 **Email:** [hiteshstr11@gmail.com](mailto:hiteshstr11@gmail.com)
-
-💼 **LinkedIn:** [Hitesh Kumar Suthar](https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/)
-
-💻 **GitHub:** [@hiteshkumarsuthar](https://github.com/hiteshkumarsuthar)
+## 🤝 Connect With Me
 
 <div align="center">
 
+<a href="https://github.com/hiteshkumarsuthar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hiteshstr11@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
 ---
 
-### Learn · Build · Improve · Repeat 🚀
+<div align="center">
+
+### 💡 Learn • Build • Improve • Repeat 🚀
+
+**Thanks for visiting my profile!**
 
 </div>
