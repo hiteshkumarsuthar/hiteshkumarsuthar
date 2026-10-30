@@ -4,8 +4,26 @@
 
 ### B.Tech AI & Data Science Student | Aspiring Data Scientist | Learning by Building
 
-<img src="https://komarev.com/ghpvc/?username=hiteshkumarsuthar&label=Profile%20Views&color=blueviolet&style=flat" />
-<img src="https://img.shields.io/github/followers/hiteshkumarsuthar?label=Followers&style=flat&color=blue" />
+I'm passionate about programming, Data Science, and building real-world solutions. I enjoy learning new technologies and applying my knowledge through hands-on projects.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hiteshkumarsuthar&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://img.shields.io/github/followers/hiteshkumarsuthar?label=Followers&style=flat-square&color=blue" />
+
+<br/><br/>
+
+<a href="https://github.com/hiteshkumarsuthar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hiteshstr11@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -17,7 +35,8 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 - 🔭 Currently learning new technologies and building hands-on projects.
 - 🌱 Exploring **Python, Java, Data Science & Machine Learning**.
-- 👯 Looking to collaborate on **Open Source, AI & Data Science projects**.
+- 👯 Looking to collaborate on **Open Source and AI & Data Science projects**.
+- 🤝 Looking for opportunities to learn and work on real-world applications.
 - 💬 Ask me about **Python, Java, Git, GitHub & Programming**.
 - 🎯 Goal: Become a skilled Data Scientist and solve real-world problems.
 - ⚡ Fun fact: I believe in learning by building and turning ideas into reality.
@@ -36,7 +55,7 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 <img src="https://skillicons.dev/icons?i=pandas,sklearn,tensorflow,nodejs,react" />
 
-### Databases & Tools
+### Databases & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle,git,github,vscode,docker" />
 
@@ -48,16 +67,9 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarsuthar&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hiteshkumarsuthar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkumarsuthar&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -67,7 +79,7 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hiteshkumarsuthar&theme=tokyonight&hide_border=true&border_radius=10" width="80%" />
+<img src="https://streak-stats.demolab.com?user=hiteshkumarsuthar&theme=tokyonight&hide_border=true&border_radius=10" width="75%" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -77,17 +89,17 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarsuthar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Hitesh's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarsuthar&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Hitesh's%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## 📅 GitHub Contribution Calendar
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/70a5fd/hiteshkumarsuthar" width="100%" alt="GitHub Contribution Calendar" />
+<img src="https://ghchart.rshah.org/58a6ff/hiteshkumarsuthar" width="100%" alt="GitHub Contribution Calendar" />
 
 </div>
 
@@ -97,21 +109,23 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarsuthar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarsuthar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## ⭐ Repository Statistics
+## ⭐ GitHub Repository Statistics
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhiteshkumarsuthar&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" />
+<a href="https://github.com/hiteshkumarsuthar?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore%20All-2ea44f?style=for-the-badge&logo=github" />
+</a>
 
 <img src="https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" />
 
-<img src="https://img.shields.io/github/followers/hiteshkumarsuthar?style=for-the-badge&logo=github&label=Followers&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/hiteshkumarsuthar?style=for-the-badge&logo=github&label=Followers&color=blue" />
 
 </div>
 
@@ -121,21 +135,21 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 <div align="center">
 
-<a href="https://github.com/hiteshkumarsuthar">
+<!-- Replace YOUR_PROJECT_1, YOUR_PROJECT_2 and YOUR_PROJECT_3 with actual repository names -->
+
+<a href="https://github.com/hiteshkumarsuthar/YOUR_PROJECT_1">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/hiteshkumarsuthar">
+<a href="https://github.com/hiteshkumarsuthar/YOUR_PROJECT_2">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/hiteshkumarsuthar">
+<a href="https://github.com/hiteshkumarsuthar/YOUR_PROJECT_3">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-> Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, and `YOUR_PROJECT_3` with your actual public repository names.
 
 ---
 
@@ -144,15 +158,15 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 <div align="center">
 
 <a href="https://github.com/hiteshkumarsuthar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/hitesh-kumar-suthar-816614366/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:hiteshstr11@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -163,6 +177,6 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 ### 💡 Learn • Build • Improve • Repeat 🚀
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my GitHub profile!**
 
 </div>
