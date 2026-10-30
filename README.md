@@ -95,16 +95,6 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 ---
 
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/hiteshkumarsuthar" width="100%" alt="GitHub Contribution Calendar" />
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
