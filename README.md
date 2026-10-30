@@ -49,7 +49,7 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
 
 ### Libraries & Frameworks
 
