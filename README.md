@@ -85,26 +85,6 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkumarsuthar&bg_color=1a1b27&color=79c0ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Hitesh's%20Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hiteshkumarsuthar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## ⭐ GitHub Repository Statistics
 
 <div align="center">
@@ -116,28 +96,6 @@ I'm a B.Tech undergraduate specializing in **Artificial Intelligence & Data Scie
 <img src="https://img.shields.io/github/stars/hiteshkumarsuthar?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" />
 
 <img src="https://img.shields.io/github/followers/hiteshkumarsuthar?style=for-the-badge&logo=github&label=Followers&color=blue" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Replace YOUR_PROJECT_1, YOUR_PROJECT_2 and YOUR_PROJECT_3 with actual repository names -->
-
-<a href="https://github.com/hiteshkumarsuthar/YOUR_PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/hiteshkumarsuthar/YOUR_PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/hiteshkumarsuthar/YOUR_PROJECT_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hiteshkumarsuthar&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
